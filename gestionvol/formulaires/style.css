@@ -1,0 +1,29 @@
+
+
+#affichage{
+ display: block;	
+ background-color: black;
+ color: #ffff;
+
+}
+#adresse{
+	font-size: 30px;
+	color: green;
+	font-family: Times New Roman;
+}
+
+.container{
+	padding-bottom:  30px;
+	width: 300px;
+	height: 700px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: rgba(44,62,80,0.7);
+	border-radius: 0.4px;
+	margin: 0 auto;
+	margin-top: 160px;
+}
+
+.imagedesign{
+    
+    }
